@@ -1,0 +1,253 @@
+{
+    "diseases": [
+      {
+        "name": "Apple Scab Leaf",
+        "symptoms": "Symptoms include olive-green to black spots on leaves, which later develop a velvety texture. Severely infected leaves may yellow and drop prematurely. Fruits may also develop lesions.",
+        "causes": "Caused by the fungus Venturia inaequalis, which overwinters in fallen leaves and infects new growth in spring through rain splash or wind-dispersed spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as azoxystrobin, myclobutanil, or thiophanate-methyl.\n2. Prune and remove infected leaves and branches during dormant season.\n3. Ensure proper air circulation by pruning and spacing trees.\n4. Collect and destroy fallen leaves.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Azoxystrobin", "Myclobutanil", "Thiophanate-methyl"],
+        "prevention": "1. Plant resistant apple cultivars.\n2. Maintain good orchard sanitation by removing and destroying fallen leaves.\n3. Provide adequate spacing between trees to promote air circulation.\n4. Avoid overhead irrigation to reduce leaf wetness period.\n5. Apply fungicides preventatively."
+      },
+      {
+        "name": "Apple leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Severely infected leaves may drop prematurely. Fruits may also develop lesions.",
+        "causes": "Caused by the fungus Diplocarpon mali, which overwinters on infected leaves and infects new growth in spring through rain splash.",
+        "treatment": "1. Apply fungicides containing active ingredients such as copper compounds or myclobutanil.\n2. Prune and remove infected leaves and branches.\n3. Ensure proper air circulation by pruning and spacing trees.\n4. Collect and destroy fallen leaves.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Copper compounds", "Myclobutanil"],
+        "prevention": "1. Plant resistant apple cultivars.\n2. Maintain good orchard sanitation by removing and destroying fallen leaves.\n3. Provide adequate spacing between trees to promote air circulation.\n4. Avoid overhead irrigation to reduce leaf wetness period.\n5. Apply fungicides preventatively."
+      },
+      {
+        "name": "Apple rust leaf",
+        "symptoms": "Symptoms include yellow to orange spots on leaves, which may develop brown or black pustules on the underside. Severely infected leaves may drop prematurely.",
+        "causes": "Caused by the fungus Gymnosporangium spp., which completes its life cycle between apple trees and alternate hosts such as junipers.",
+        "treatment": "1. Apply fungicides containing active ingredients such as mancozeb or sulfur.\n2. Prune and remove infected leaves and branches.\n3. Ensure proper air circulation by pruning and spacing trees.\n4. Collect and destroy fallen leaves and infected juniper hosts.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Mancozeb", "Sulfur"],
+        "prevention": "1. Remove nearby juniper hosts to reduce inoculum.\n2. Maintain good orchard sanitation by removing and destroying fallen leaves.\n3. Provide adequate spacing between trees to promote air circulation.\n4. Apply fungicides preventatively during the growing season, especially during wet weather."
+      },
+      {
+        "name": "Bell pepper leaf spot",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may coalesce and cause defoliation.",
+        "causes": "Caused by the bacteria Xanthomonas campestris pv. vesicatoria, which spreads through contaminated seeds, tools, and irrigation water.",
+        "treatment": "1. Apply bactericides containing copper compounds or streptomycin sulfate.\n2. Remove and destroy infected plant debris.\n3. Rotate crops to break disease cycle.\n4. Practice good irrigation management to avoid water splash and reduce humidity.\n5. Use disease-free seeds and transplants.",
+        "pesticides": ["Copper compounds", "Streptomycin sulfate"],
+        "prevention": "1. Use disease-free seeds and transplants.\n2. Practice crop rotation with non-solanaceous crops.\n3. Maintain proper irrigation and drainage to avoid waterlogged conditions.\n4. Sanitize tools and equipment between uses.\n5. Use resistant varieties where available."
+      },
+      {
+        "name": "Bell pepper leaf",
+        "symptoms": "Symptoms include wilting, yellowing, and necrosis of leaves, often starting at leaf tips and margins. Severely infected plants may become stunted and produce fewer fruits.",
+        "causes": "Caused by various pathogens including bacteria, fungi, and viruses. Bacterial pathogens such as Xanthomonas spp. and Pseudomonas spp. are common causes.",
+        "treatment": "1. Apply bactericides containing copper compounds or streptomycin sulfate.\n2. Remove and destroy infected plant debris.\n3. Rotate crops to break disease cycle.\n4. Practice good irrigation management to avoid water splash and reduce humidity.\n5. Use disease-free seeds and transplants.",
+        "pesticides": ["Copper compounds", "Streptomycin sulfate"],
+        "prevention": "1. Use disease-free seeds and transplants.\n2. Practice crop rotation with non-solanaceous crops.\n3. Maintain proper irrigation and drainage to avoid waterlogged conditions.\n4. Sanitize tools and equipment between uses.\n5. Use resistant varieties where available."
+      },
+      {
+        "name": "Blueberry leaf",
+        "symptoms": "Symptoms include circular to irregular red or brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Septoria spp., Phyllosticta spp., and Colletotrichum spp. Infection often occurs during wet weather and in crowded plantings.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Prune and remove infected leaves and branches.\n3. Ensure proper air circulation and spacing between plants.\n4. Mulch to prevent soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant blueberries in well-draining soil.\n2. Maintain proper spacing between plants to improve air circulation.\n3. Prune regularly to remove diseased branches and improve light penetration.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather."
+      },
+      {
+        "name": "Cherry leaf",
+        "symptoms": "Symptoms include circular to irregular red or brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Coccomyces spp., Blumeriella jaapii, and Monilinia spp. Infection often occurs during wet weather and in crowded plantings.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Prune and remove infected leaves and branches.\n3. Ensure proper air circulation and spacing between plants.\n4. Mulch to prevent soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant cherries in well-draining soil.\n2. Maintain proper spacing between plants to improve air circulation.\n3. Prune regularly to remove diseased branches and improve light penetration.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather."
+      },
+      {
+        "name": "Corn Gray leaf spot",
+        "symptoms": "Symptoms include rectangular to oval gray lesions with tan centers on leaves. Lesions may coalesce and cause extensive blighting.",
+        "causes": "Caused by the fungus Cercospora zeae-maydis, which survives on infected plant debris and produces spores in warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as azoxystrobin or propiconazole.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Azoxystrobin", "Propiconazole"],
+        "prevention": "1. Plant corn hybrids with resistance to gray leaf spot.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Till under crop residue to speed up decomposition.\n4. Avoid overhead irrigation to reduce leaf wetness.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Corn leaf blight",
+        "symptoms": "Symptoms include elliptical to spindle-shaped tan lesions with dark borders on leaves. Lesions may expand rapidly and cause extensive blighting.",
+        "causes": "Caused by the fungus Helminthosporium maydis, which survives on infected plant debris and produces spores in warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as azoxystrobin or propiconazole.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Azoxystrobin", "Propiconazole"],
+        "prevention": "1. Plant corn hybrids with resistance to leaf blight.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Till under crop residue to speed up decomposition.\n4. Avoid overhead irrigation to reduce leaf wetness.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Corn rust leaf",
+        "symptoms": "Symptoms include small, circular to elongated pustules on leaves, which may turn orange, red, or brown as spores mature. Severely infected leaves may turn yellow and drop prematurely.",
+        "causes": "Caused by various fungal pathogens including Puccinia spp. and Uromyces spp., which overwinter on alternate hosts and infect corn in spring through wind-dispersed spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as azoxystrobin or propiconazole.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Azoxystrobin", "Propiconazole"],
+        "prevention": "1. Plant corn hybrids with resistance to rust diseases.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Till under crop residue to speed up decomposition.\n4. Monitor and control alternate hosts such as barberry.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Peach leaf",
+        "symptoms": "Symptoms include circular to irregular red or brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Coccomyces spp., Blumeriella jaapii, and Monilinia spp. Infection often occurs during wet weather and in crowded plantings.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Prune and remove infected leaves and branches.\n3. Ensure proper air circulation and spacing between trees.\n4. Mulch to prevent soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant peaches in well-draining soil.\n2. Maintain proper spacing between trees to improve air circulation.\n3. Prune regularly to remove diseased branches and improve light penetration.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather."
+      },
+      {
+        "name": "Potato leaf early blight",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by the fungus Alternaria solani, which overwinters in infected plant debris and produces spores in warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant potato cultivars with resistance to early blight.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Till under crop residue to speed up decomposition.\n4. Avoid overhead irrigation to reduce leaf wetness.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Potato leaf late blight",
+        "symptoms": "Symptoms include irregular brown lesions on leaves that may become water-soaked and turn dark. Lesions may expand rapidly, leading to defoliation.",
+        "causes": "Caused by the oomycete Phytophthora infestans, which thrives in cool, wet conditions and spreads rapidly through wind-dispersed spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or mancozeb.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during cool, wet weather.",
+        "pesticides": ["Chlorothalonil", "Mancozeb"],
+        "prevention": "1. Plant potato cultivars with resistance to late blight.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Monitor for early symptoms and apply fungicides preventatively during periods of high disease pressure.\n4. Improve air circulation and reduce humidity by spacing plants adequately and avoiding overhead irrigation.\n5. Remove and destroy volunteer potato plants and infected tubers."
+      },
+      {
+        "name": "Potato leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Alternaria spp., Phytophthora spp., and Septoria spp. Infection often occurs during warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or mancozeb.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Chlorothalonil", "Mancozeb"],
+        "prevention": "1. Plant potato cultivars with resistance to leaf diseases.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Monitor for early symptoms and apply fungicides preventatively during periods of high disease pressure.\n4. Improve air circulation and reduce humidity by spacing plants adequately and avoiding overhead irrigation.\n5. Remove and destroy volunteer potato plants and infected tubers."
+      },
+      {
+        "name": "Raspberry leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Septoria spp., Phyllosticta spp., and Botrytis spp. Infection often occurs during wet weather and in crowded plantings.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Prune and remove infected canes and leaves.\n3. Ensure proper air circulation and spacing between plants.\n4. Mulch to prevent soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant raspberries in well-draining soil.\n2. Maintain proper spacing between plants to improve air circulation.\n3. Prune regularly to remove diseased canes and improve light penetration.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather."
+      },
+      {
+        "name": "Soyabean leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Cercospora spp., Septoria spp., and Phakopsora spp. Infection often occurs during warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as azoxystrobin or propiconazole.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Azoxystrobin", "Propiconazole"],
+        "prevention": "1. Plant soybeans in well-draining soil.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Till under crop residue to speed up decomposition.\n4. Monitor for early symptoms and apply fungicides preventatively during periods of high disease pressure.\n5. Improve air circulation and reduce humidity by spacing plants adequately and avoiding overhead irrigation."
+      },
+      {
+        "name": "Soybean leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Cercospora spp., Septoria spp., and Phakopsora spp. Infection often occurs during warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as azoxystrobin or propiconazole.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Azoxystrobin", "Propiconazole"],
+        "prevention": "1. Plant soybeans in well-draining soil.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Till under crop residue to speed up decomposition.\n4. Monitor for early symptoms and apply fungicides preventatively during periods of high disease pressure.\n5. Improve air circulation and reduce humidity by spacing plants adequately and avoiding overhead irrigation."
+      },
+      {
+        "name": "Squash Powdery mildew leaf",
+        "symptoms": "Symptoms include white, powdery fungal growth on leaves, stems, and fruit. Infected leaves may become distorted, turn yellow, and die prematurely.",
+        "causes": "Caused by various fungal pathogens including Podosphaera spp. and Erysiphe spp., which thrive in warm, dry conditions and spread through wind-dispersed spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as potassium bicarbonate or neem oil.\n2. Remove and destroy infected plant parts.\n3. Ensure proper air circulation and spacing between plants.\n4. Avoid overhead irrigation to reduce leaf wetness.\n5. Apply fungicides preventatively during periods of high disease pressure.",
+        "pesticides": ["Potassium bicarbonate", "Neem oil"],
+        "prevention": "1. Plant squash in well-draining soil.\n2. Maintain proper spacing between plants to improve air circulation.\n3. Prune regularly to remove dense foliage.\n4. Avoid overhead irrigation to reduce leaf wetness.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Strawberry leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Mycosphaerella fragariae, Phomopsis obscurans, and Botrytis cinerea. Infection often occurs during wet weather and in crowded plantings.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Prune and remove infected leaves and runners.\n3. Ensure proper air circulation and spacing between plants.\n4. Mulch to prevent soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant strawberries in well-draining soil.\n2. Maintain proper spacing between plants to improve air circulation.\n3. Prune regularly to remove diseased leaves and runners.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during the growing season, especially during wet weather."
+      },
+      {
+        "name": "Tomato Early blight leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by the fungus Alternaria solani, which survives in soil and infected plant debris and produces spores in warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant tomatoes in well-draining soil.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Mulch to prevent soil splash onto lower leaves.\n4. Maintain proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Tomato Septoria leaf spot",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with gray centers and dark borders. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by the fungus Septoria lycopersici, which survives on infected plant debris and produces spores in warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or copper compounds.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Chlorothalonil", "Copper compounds"],
+        "prevention": "1. Plant tomatoes in well-draining soil.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Mulch to prevent soil splash onto lower leaves.\n4. Maintain proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Tomato leaf bacterial spot",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by the bacterium Xanthomonas campestris pv. vesicatoria, which spreads through contaminated seeds, tools, and irrigation water.",
+        "treatment": "1. Apply bactericides containing copper compounds or streptomycin sulfate.\n2. Remove and destroy infected plant debris.\n3. Rotate crops to break disease cycle.\n4. Practice good irrigation management to avoid water splash and reduce humidity.\n5. Use disease-free seeds and transplants.",
+        "pesticides": ["Copper compounds", "Streptomycin sulfate"],
+        "prevention": "1. Use disease-free seeds and transplants.\n2. Practice crop rotation with non-solanaceous crops.\n3. Maintain proper irrigation and drainage to avoid waterlogged conditions.\n4. Sanitize tools and equipment between uses.\n5. Use resistant varieties where available."
+      },
+      {
+        "name": "Tomato leaf late blight",
+        "symptoms": "Symptoms include irregular brown lesions on leaves that may become water-soaked and turn dark. Lesions may expand rapidly, leading to defoliation.",
+        "causes": "Caused by the oomycete Phytophthora infestans, which thrives in cool, wet conditions and spreads rapidly through wind-dispersed spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or mancozeb.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during cool, wet weather.",
+        "pesticides": ["Chlorothalonil", "Mancozeb"],
+        "prevention": "1. Plant tomatoes in well-draining soil.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Monitor for early symptoms and apply fungicides preventatively during periods of high disease pressure.\n4. Improve air circulation and reduce humidity by spacing plants adequately and avoiding overhead irrigation.\n5. Remove and destroy volunteer tomato plants and infected fruits."
+      },
+      {
+        "name": "Tomato leaf mosaic virus",
+        "symptoms": "Symptoms include mottling, yellowing, and distortion of leaves. Infected plants may be stunted and produce fewer fruits.",
+        "causes": "Caused by various viruses including Tobacco mosaic virus (TMV) and Tomato mosaic virus (ToMV), which spread through contaminated tools, hands, and plant sap.",
+        "treatment": "1. No chemical treatment available.\n2. Control aphid vectors.\n3. Remove and destroy infected plants.\n4. Practice crop rotation and use virus-free seedlings.\n5. Apply insecticides to control aphid vectors if necessary.",
+        "pesticides": ["None"],
+        "prevention": "1. Use virus-free seeds and transplants.\n2. Practice crop rotation to break disease cycle.\n3. Control aphid populations with insecticides or natural predators.\n4. Sanitize tools and equipment between uses to prevent mechanical transmission.\n5. Monitor plants regularly for symptoms and remove infected plants promptly."
+      },
+      {
+        "name": "Tomato leaf yellow virus",
+        "symptoms": "Symptoms include yellowing and mottling of leaves, often accompanied by stunting and reduced fruit yield.",
+        "causes": "Caused by various viruses including Tomato yellow leaf curl virus (TYLCV) and Cucumber mosaic virus (CMV), which are transmitted by whiteflies and thrips.",
+        "treatment": "1. No chemical treatment available.\n2. Control whitefly and thrip vectors.\n3. Remove and destroy infected plants.\n4. Practice crop rotation and use virus-free seedlings.\n5. Apply insecticides to control whitefly and thrip vectors if necessary.",
+        "pesticides": ["None"],
+        "prevention": "1. Use virus-free seeds and transplants.\n2. Control whitefly and thrip populations with insecticides or natural predators.\n3. Practice crop rotation to break disease cycle.\n4. Sanitize tools and equipment between uses to prevent mechanical transmission.\n5. Monitor plants regularly for symptoms and remove infected plants promptly."
+      },
+      {
+        "name": "Tomato leaf",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with yellow halos. Lesions may enlarge and coalesce, leading to defoliation.",
+        "causes": "Caused by various fungal pathogens including Alternaria spp., Septoria spp., and Phoma spp. Infection often occurs during warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or mancozeb.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during warm, humid weather.",
+        "pesticides": ["Chlorothalonil", "Mancozeb"],
+        "prevention": "1. Plant tomatoes in well-draining soil.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Mulch to prevent soil splash onto lower leaves.\n4. Maintain proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Tomato mold leaf",
+        "symptoms": "Symptoms include grayish-white fuzzy growth on leaves, stems, and fruit. Infected tissues may become water-soaked and collapse.",
+        "causes": "Caused by the fungus Phytophthora infestans, which thrives in cool, wet conditions and spreads rapidly through wind-dispersed spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as chlorothalonil or mancozeb.\n2. Rotate crops to break disease cycle.\n3. Remove and destroy infected plant debris.\n4. Ensure proper plant spacing and avoid overhead irrigation.\n5. Apply fungicides preventatively during the growing season, especially during cool, wet weather.",
+        "pesticides": ["Chlorothalonil", "Mancozeb"],
+        "prevention": "1. Plant tomatoes in well-draining soil.\n2. Rotate crops with non-hosts to reduce inoculum.\n3. Monitor for early symptoms and apply fungicides preventatively during periods of high disease pressure.\n4. Improve air circulation and reduce humidity by spacing plants adequately and avoiding overhead irrigation.\n5. Remove and destroy volunteer tomato plants and infected fruits."
+      },
+      {
+        "name": "Tomato two spotted spider mites leaf",
+        "symptoms": "Symptoms include stippling, yellowing, and bronzing of leaves. Infested leaves may become dry, brittle, and drop prematurely.",
+        "causes": "Caused by the spider mite Tetranychus urticae, which feeds on plant sap and reproduces rapidly in hot, dry conditions.",
+        "treatment": "1. Apply miticides containing active ingredients such as abamectin or bifenthrin.\n2. Release predatory mites such as Phytoseiulus persimilis.\n3. Use high-pressure water sprays to dislodge mites from leaves.\n4. Prune and remove heavily infested plant parts.\n5. Provide adequate moisture and avoid drought stress to reduce mite populations.",
+        "pesticides": ["Abamectin", "Bifenthrin"],
+        "prevention": "1. Monitor plants regularly for early signs of mite infestation.\n2. Use reflective mulches to deter mites.\n3. Introduce and conserve natural enemies such as predatory mites and insects.\n4. Maintain proper plant nutrition to support plant vigor and resilience against mites.\n5. Avoid excessive use of broad-spectrum insecticides that may harm beneficial insects."
+      },
+      {
+        "name": "Grape leaf black rot",
+        "symptoms": "Symptoms include circular to irregular brown spots on leaves with reddish-brown margins. Lesions may enlarge and develop a target-like appearance.",
+        "causes": "Caused by the fungus Guignardia bidwellii, which overwinters in infected plant debris and produces spores in warm, humid conditions.",
+        "treatment": "1. Apply fungicides containing active ingredients such as captan or myclobutanil.\n2. Remove and destroy infected plant debris.\n3. Prune to improve air circulation and reduce humidity.\n4. Apply fungicides preventatively during the growing season, especially during wet weather.\n5. Monitor for early symptoms and begin fungicide applications before infection occurs.",
+        "pesticides": ["Captan", "Myclobutanil"],
+        "prevention": "1. Plant grape varieties with resistance to black rot.\n2. Prune grapevines regularly to improve air circulation.\n3. Remove and destroy infected plant parts promptly.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Grape leaf powdery mildew",
+        "symptoms": "Symptoms include white, powdery fungal growth on leaves, shoots, and clusters. Infected tissues may become distorted and die prematurely.",
+        "causes": "Caused by various fungal pathogens including Erysiphe necator and Uncinula necator, which thrive in warm, humid conditions and spread through airborne spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as sulfur or potassium bicarbonate.\n2. Prune to improve air circulation and reduce humidity.\n3. Remove and destroy infected plant parts.\n4. Apply fungicides preventatively during the growing season, especially during warm, humid weather.\n5. Monitor for early symptoms and begin fungicide applications before infection occurs.",
+        "pesticides": ["Sulfur", "Potassium bicarbonate"],
+        "prevention": "1. Plant grape varieties with resistance to powdery mildew.\n2. Prune grapevines regularly to improve air circulation.\n3. Maintain proper spacing between plants.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      },
+      {
+        "name": "Grape leaf rust",
+        "symptoms": "Symptoms include orange to reddish-brown pustules on leaves, often surrounded by yellow halos. Severely infected leaves may yellow, wither, and drop prematurely.",
+        "causes": "Caused by the fungus Phakopsora ampelopsidis, which overwinters on alternate hosts and infects grapevines in spring through wind-dispersed spores.",
+        "treatment": "1. Apply fungicides containing active ingredients such as myclobutanil or tebuconazole.\n2. Remove and destroy infected plant debris.\n3. Prune to improve air circulation and reduce humidity.\n4. Apply fungicides preventatively during the growing season, especially during wet weather.\n5. Monitor for early symptoms and begin fungicide applications before infection occurs.",
+        "pesticides": ["Myclobutanil", "Tebuconazole"],
+        "prevention": "1. Plant grape varieties with resistance to rust diseases.\n2. Prune grapevines regularly to improve air circulation.\n3. Remove and destroy infected plant parts promptly.\n4. Apply organic mulch to reduce soil splash.\n5. Apply fungicides preventatively during periods of high disease pressure."
+      }
+    ]
+  }
+  
